@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 💫 About Me:
+# About Me:
 Sofware Engineer at Pinterest<br>
 
 
