@@ -1,6 +1,4 @@
-### Hi there 👋
 
-# About Me:
 Javier Ramirez - Sofware Engineer<br>
 
 
